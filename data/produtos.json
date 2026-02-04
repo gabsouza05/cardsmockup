@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "nome": "Camiseta regata",
+        "descricao": "Camiseta regata masculina",
+        "preco": 38.9,
+        "quantidade": 10,
+        "img":""
+
+    },
+    {
+        "id": 2,
+        "nome": "Camisa polo",
+        "descricao": "Camiseta polo masculina",
+        "preco": 50.9,
+        "quantidade": 20,
+        "img":""
+    },
+    {
+        "id": 3,
+        "nome": "Camiseta regata",
+        "descricao": "Camiseta regata feminina",
+        "preco": 79.5,
+        "quantidade": 15,
+        "img":""
+    },
+    {
+        "id": 4,
+        "nome": "Calça jeans",
+        "descricao": "Calça jeans masculina",
+        "preco": 99.9,
+        "quantidade": 5,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNebDhM2fcdrADBKIw1ZD78vat9zxV9NAaKA&s"
+
+    },
+    {
+        "id": 5,
+        "nome": "Calça jeans",
+        "descricao": "Calça jeans feminina",
+        "preco": 109.5,
+        "quantidade": 10,
+        "img":"https://www.revanche.com.br/media/catalog/product/cache/8e5872966dd88cc0e998d2d2c4eec43a/c/a/cal_a-jeans-fit-atacado-feminina-revanche-canutama1175001-_2_.jpg"
+
+    },
+    {
+        "id": 6,
+        "nome": "Cueca",
+        "descricao": "Cueca Box",
+        "preco": 38.9,
+        "quantidade": 10,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFb1N_7WXlVi-cxaVDSOkZ9Ge2ONQHNsayRg&s"
+
+    },
+    {
+        "id": 7,
+        "nome": "Moletom",
+        "descricao": "Moletom masculino",
+        "preco": 68.7,
+        "quantidade": 3,
+        "img":"https://www.calitta.com/13317-large_default/moletom-masculino-com-capuz-moda-inverno-casual-limpo-elegenta-slim.jpg"
+
+    },
+    {
+        "id": 8,
+        "nome": "Moletom",
+        "descricao": "Moletom feminino",
+        "preco": 95.6,
+        "quantidade": 9,
+        "img":""
+
+    },
+    {
+        "id": 9,
+        "nome": "Saia jeans",
+        "descricao": "Saia jeans",
+        "preco": 38.9,
+        "quantidade": 10,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfIX9Lsz34cZZbPuAzAbTjhYFGj6DWsxie5w&s"
+
+    },
+    {
+        "id": 10,
+        "nome": "Calcinha",
+        "descricao": "Calcinha vermelha",
+        "preco": 38.9,
+        "quantidade": 10,
+        "img":"https://img.irroba.com.br/fit-in/600x600/filters:fill(fff):quality(80)/tritueco/catalog/imagem-do-whatsapp-de-2023-06-30-a-s-092334-2.jpg"
+
+    }
+]
